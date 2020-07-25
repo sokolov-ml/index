@@ -1,0 +1,9 @@
+.content {
+  width: 90vw;
+  height: 95vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: khaki;
+  margin: auto;
+}
