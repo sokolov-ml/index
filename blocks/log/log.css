@@ -1,0 +1,13 @@
+.log {
+  border-radius: 5px;
+  border: 1px solid black;
+  background-color: white;
+  box-sizing: border-box;
+  display: block;
+  width: 95%;
+
+  font-size: 2vh;
+  color: black;
+  margin: 5px;
+  padding: 3px;
+}

@@ -1,12 +1,13 @@
 .square {
   background-color: coral;
-  min-width: 30vh;
+  min-width: 40vh;
 
   min-height: 20vh;
 
   display: flex;
-  align-items: center;
-  justify-content: center;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: flex-start;
 
   color: white;
   font-size: 2vh;
